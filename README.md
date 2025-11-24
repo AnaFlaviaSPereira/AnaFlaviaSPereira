@@ -47,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Modelagem ER/DER](https://img.shields.io/badge/Modelagem_ER/DER-6A5ACD?style=for-the-badge)
 ![Documentação](https://img.shields.io/badge/Documentação_SQL-483D8B?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-FF6F61?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-FF6F61?style=for-the-badge)
 
 ---
 
